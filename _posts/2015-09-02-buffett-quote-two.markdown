@@ -6,7 +6,7 @@ author: Warren Buffett
 quote: >
   Rule No. 1: Never lose money. Rule No. 2: Never forget rule No. 1
 image: /images/buffett2.jpeg
-twitter: "#1 never lose money. #2 don't forget #1" #quote W.Buffett
+twitter: no.1 never lose money. no.2 don't forget no.1. Warren Buffett http://quotes.stockflare.com/ https://pbs.twimg.com/media/BroaE5hIcAAiufe.jpg
 
 date:   2015-09-02 10:00:00
 categories: quote
