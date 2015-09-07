@@ -6,7 +6,7 @@ author: Charlie Munger
 quote: >
   Our job is to find a few intelligent things to do, not to keep up with every damn thing in the world.
 image: /images/charlie-munger-2.jpg
-twitter: "Find a few smart ideas, don't follow everything" #quote C.Munger
+twitter: Find a few smart ideas. Don't follow everything. Charlie Munger http://quotes.stockflare.com/
 
 date:   2015-09-02 13:00:00
 categories: quote
