@@ -6,7 +6,7 @@ author: Warren Buffett
 quote: >
   Wall Street is the only place that people ride to in a Rolls Royce to get advice from those who take the subway.
 image: /images/buffett1.jpeg
-twitter: "Wall St, where billionaires take advise from subway riders" #quote W.Buffett
+twitter: Wall Street, where billionaires take advise from subway riders. Warren Buffett http://quotes.stockflare.com/
 
 date:   2015-09-01 10:00:00
 categories: quote
