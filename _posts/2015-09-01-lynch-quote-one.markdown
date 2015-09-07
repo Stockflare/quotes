@@ -6,7 +6,7 @@ author: Peter Lynch
 quote: >
   Everyone has the brainpower to follow the stock market. If you made it through fifth-grade math, you can do it.
 image: /images/peter-lynch-2.jpg
-twitter: "Even a 5th grader can follow the stock market" #quote P.Lynch
+twitter: Even a 5th grader can follow the stock market. Peter Lynch. http://quotes.stockflare.com/
 
 date:   2015-09-01 11:00:00
 categories: quote
