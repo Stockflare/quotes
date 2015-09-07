@@ -1,0 +1,290 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+
+
+// Our variables
+$base-font-size:   16px;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #2a7ae2;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    800px;
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+
+.container-fluid {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#wrap
+{
+  margin-left: 65px;
+  background:#101010;
+}
+
+body
+{
+  background:#101010;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+}
+
+h1
+{
+  font-size: 20px;
+  color: #FFFFFF;
+  line-height: 24px;
+  margin:0px;
+  font-weight: 400;
+}
+
+h2
+{
+  font-weight:500;
+  font-size: 16px;
+  color: #FFFFFF;
+  letter-spacing: 0.1px;
+  line-height: 19px;
+  margin:0px 0px 7px;
+}
+
+.padding
+{
+  padding:28px 0px;
+}
+
+.padding a
+{
+  margin-right:10px;
+  color:#5B5B5B;
+}
+
+.padding a:hover
+{
+  color:#fff;
+}
+
+.padding a i
+{
+  font-size:27px;
+}
+
+.mailbox p
+{
+  opacity: 0.25;
+  font-size: 14px;
+  color: #FFFFFF;
+  font-weight: 500;
+  line-height: 16px;
+  margin:0px;
+}
+
+.grid-item 
+{
+  width: 31%; 
+  margin-bottom:40px;
+}
+
+.grid-item .post-link
+{
+  background:#2BA5E1;
+  width:auto;
+  height:100%;
+  display: block;
+  -webkit-border-top-left-radius: 2px;
+  -webkit-border-top-right-radius: 2px;
+  -moz-border-radius-topleft: 2px;
+  -moz-border-radius-topright: 2px;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  position: relative;
+  text-align: center;
+}
+
+.grid-item .post-link i
+{
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  margin-top: -25px;
+  opacity:0;
+  -webkit-transition: all 0.3s ease-in-out;                  
+  -moz-transition: all 0.3s ease-in-out;                 
+  -o-transition: all 0.3s ease-in-out;   
+  -ms-transition: all 0.3s ease-in-out;          
+  transition: all 0.3s ease-in-out;
+  color:#fff;
+}
+
+
+.grid-item:hover img
+{
+  opacity: 0.3;
+}
+
+.grid-item:hover i
+{
+  opacity: 1;
+}
+
+
+.grid-item img
+{
+  height:auto;
+  max-width:100%;
+  -webkit-border-top-left-radius: 2px;
+  -webkit-border-top-right-radius: 2px;
+  -moz-border-radius-topleft: 2px;
+  -moz-border-radius-topright: 2px;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  -webkit-transition: all 0.3s ease-in-out;                  
+  -moz-transition: all 0.3s ease-in-out;                 
+  -o-transition: all 0.3s ease-in-out;   
+  -ms-transition: all 0.3s ease-in-out;          
+  transition: all 0.3s ease-in-out;
+}
+
+.grid-item .quote
+{
+  background:#1B1B1B;
+  padding:30px;
+  -webkit-border-bottom-right-radius: 2px;
+  -webkit-border-bottom-left-radius: 2px;
+  -moz-border-radius-bottomright: 2px;
+  -moz-border-radius-bottomleft: 2px;
+  border-bottom-right-radius: 2px;
+  border-bottom-left-radius: 2px;
+  font-size: 17px;
+  color: #A5A5A5;
+  line-height: 25px;
+}
+
+.grid-item .quote small
+{
+  opacity: 0.45;
+  font-weight:500;
+  font-size: 13px;
+  color: #909090;
+  line-height: 21px;
+}
+
+.mailbox
+{
+  background: #111111;
+  border: 1px solid #212121;
+  border-radius: 2px;
+  padding:20px 30px;
+  margin:0px 0px 35px 0px;
+}
+
+/* STUPID MAILCHIMP CHANGES */
+
+#mc_embed_signup
+{
+  background:transparent !important;
+  float:right;
+}
+
+#mc_embed_signup input.email
+{
+  float:left;
+}
+
+#mc_embed_signup .clear
+{
+  float:left;
+}
+
+#mc_embed_signup form
+{
+  padding:0px !important;
+}
+
+#mc_embed_signup input.email {
+    display: block;
+    padding: 12px 0 !important;
+    margin:0px 6px !important;
+    text-indent: 12px !important;
+    width: 58%;
+    border-radius: 3px;
+    border: none !important;
+    min-width: 250px !important;
+    background:#fff;
+}
+
+#mc_embed_signup .button
+{
+  height:40px !important;
+  margin:0px !important;
+  font-size: 13px !important;
+  background:#1FA3EE !important;
+  min-width: 98px !important;
+}
+
+/* MOBILE STYLES */
+
+@media only screen and (max-width: 768px) {
+
+  .grid-item
+  {
+    width:100%;
+  }
+
+  .mailbox
+  {
+    text-align: center;
+  }
+
+  .mailbox img
+  {
+    padding:20px 0px;
+  }
+
+  .mailbox p
+  {
+    padding-bottom:20px;
+  }
+
+  #mc_embed_signup input.email 
+  {
+    margin:5px 0px !important;
+    width:100% !important;
+    background:#fff;
+  }
+
+  #mc_embed_signup .button
+  {
+    width:100% !important;
+  }
+
+  #mc_embed_signup .clear
+  {
+    width:100%;
+  }
+
+
+
+}
