@@ -6,7 +6,7 @@ author: Peter Lynch
 quote: >
   Go for a business that any idiot can run - because sooner or later, any idiot probably is going to run it.
 image: /images/peter-lynch.jpeg
-twitter: "Invest in businesses, even idiots can run." #quote P.Lynch
+twitter: Invest in businesses, even idiots can run. Peter Lynch http://quotes.stockflare.com/ https://pbs.twimg.com/media/Br7tMokIcAAmnoz.jpg
 
 date:   2015-09-02	 11:00:00
 categories: quote
