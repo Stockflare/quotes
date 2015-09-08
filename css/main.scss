@@ -268,11 +268,17 @@ h2
     padding-bottom:20px;
   }
 
+  #mc_embed_signup
+  {
+    max-width: 100%;
+  }
+
   #mc_embed_signup input.email 
   {
     margin:5px 0px !important;
     width:100% !important;
     background:#fff;
+    min-width: 100px;
   }
 
   #mc_embed_signup .button
@@ -283,6 +289,16 @@ h2
   #mc_embed_signup .clear
   {
     width:100%;
+  }
+
+  .mobile-menu
+  {
+    display: none;
+  }
+
+  header.visible.background-dark
+  {
+    display: none;
   }
 
 
