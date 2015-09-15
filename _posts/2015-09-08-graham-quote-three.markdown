@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Weighing Machine
+author: Ben Graham
+quote: >
+  In the short run, the market is a voting machine but in the long run it is a weighing machine.
+
+image: /images/ben-graham-3.jpg
+twitter: Market's a voting machine in short term, weighting machine long term ... Ben Graham http://quotes.stockflare.com/
+
+date:   2015-09-08 15:00:00
+categories: quote
+
+---
+

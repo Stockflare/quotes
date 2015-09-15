@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Investor Enemies
+author: Ben Graham
+quote: >
+  The investor’s chief problem and even his worst enemy, is likely to be himself.
+
+image: /images/ben-graham-2.jpg
+twitter: An investor's worst enemy is himself ... Ben Graham http://quotes.stockflare.com/
+
+date:   2015-09-09 15:00:00
+categories: quote
+
+---
+
