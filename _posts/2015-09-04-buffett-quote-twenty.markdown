@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Cash Value
+author: Warren Buffett
+quote: >
+  The value of a business is the cash it's going to produce in the future.
+
+image: /images/warren-buffett-20.jpg
+twitter: The value of a business is its future cash flow. Warren Buffett http://quotes.stockflare.com/
+
+date:   2015-09-04 06:00:00
+categories: quote
+
+---
+

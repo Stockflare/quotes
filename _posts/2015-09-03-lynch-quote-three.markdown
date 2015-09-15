@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title:  Crayon easy
+title:  Crayon Easy
 author: Peter Lynch
 quote: >
   Never invest in any idea you can't illustrate with a crayon.

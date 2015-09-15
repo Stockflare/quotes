@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Greedy Fear
+author: Warren Buffett
+quote: >
+  You try to be greedy when others are fearful and you try to be very fearful when others are greedy.
+
+image: /images/warren-buffett-21.jpg
+twitter: Be greedy when others are fearful. Warren Buffett http://quotes.stockflare.com/
+
+date:   2015-09-06 06:00:00
+categories: quote
+
+---
+

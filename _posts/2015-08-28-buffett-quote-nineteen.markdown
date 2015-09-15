@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Blind Competition
+author: Warren Buffett
+quote: >
+  In a commodity business, it’s very hard to be smarter than your dumbest competitor.
+
+image: /images/warren-buffett-19.jpg
+twitter: In Commodities, it’s hard to be smarter than your dumbest competitor. Warren Buffett http://quotes.stockflare.com/
+
+date:   2015-08-28 10:00:00
+categories: quote
+
+---
+
