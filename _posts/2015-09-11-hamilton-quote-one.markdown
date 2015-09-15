@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Correct Graves
+author: William Hamilton
+quote: >
+  Wall Street’s graveyards are filled with men who were right too soon.
+
+image: /images/william-hamilton-1.jpg
+twitter: Wall Street’s graveyards are filled with men who were right too soon. William Hamilton http://quotes.stockflare.com/
+
+date:   2015-09-11 02:00:00
+categories: quote
+
+---
+
