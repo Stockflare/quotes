@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Ignorant News
+author: Peter Lynch
+quote: >
+  There is always something to worry about. Avoid weekend thinking and ignore the latest dire predictions of the newscasters. Sell a stock because the company's fundamentals deteriorate, not because the sky is falling.
+
+image: /images/peter-lynch-17.jpg
+twitter: Sell when the fundamentals get worse, not the news and noise. Peter Lynch http://quotes.stockflare.com/
+
+date:   2015-08-30	 11:00:00
+categories: quote
+
+---
+

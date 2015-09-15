@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Healthy Monopolies
+author: Peter Lynch
+quote: >
+  In business, competition is never as healthy as total domination.
+
+image: /images/peter-lynch-10.jpg
+twitter: In business, competition is never as healthy as total domination. Peter Lynch http://quotes.stockflare.com/
+
+date:   2015-09-10	 11:00:00
+categories: quote
+
+---
+

@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Missing Bonds
+author: Peter Lynch
+quote: >
+  Gentleman who prefer bonds don't know what they're missing
+
+image: /images/peter-lynch-19.jpg
+twitter: Gentleman who prefer bonds don't know what they're missing. Peter Lynch http://quotes.stockflare.com/
+
+date:   2015-08-28	 11:00:00
+categories: quote
+
+---
+
