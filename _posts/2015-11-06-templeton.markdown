@@ -9,7 +9,7 @@ quote: >
 image: /images/john_templeton_1.jpg
 twitter: To beat the crowd, you have to act differently. John Templeton http://quotes.stockflare.com/
 
-date:   2015-11-07 16:00:00
+date:   2015-11-06 16:00:00
 categories: quote
 
 ---
