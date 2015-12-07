@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Monthly Danger
+author: Mark Twain
+quote: >
+  October: This is one of the peculiarly dangerous months to speculate in stocks. The others are July, January, September, April, November, May, March, June, December, August and February.
+
+image: /images/mark_twain_1.jpg
+twitter: Oct is a dangerous month, as are Jan, Feb, Mar, etc. Mark Twain http://quotes.stockflare.com/
+
+date:   2015-10-02 06:00:00
+categories: quote
+
+---
+

@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Mean Living
+author: Oscar Wilde
+quote: >
+  Anyone who lives within their means suffers from a lack of imagination.
+
+image: /images/oscar_wilde_1.jpg
+twitter: Anyone who lives within their means suffers from a lack of imagination. Oscar Wilde http://quotes.stockflare.com/
+
+date:   2015-10-11 06:00:00
+categories: quote
+
+---
+

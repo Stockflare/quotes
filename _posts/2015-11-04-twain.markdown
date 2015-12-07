@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Risky Times
+author: Mark Twain
+quote: >
+  There are two times in a man's life when he shouldn't speculate: when he can afford to and when he can't.
+
+image: /images/mark_twain_2.jpg
+twitter: Don't speculate if you can afford to. Nor if you can't. Mark Twain http://quotes.stockflare.com/
+
+date:   2015-11-04 06:00:00
+categories: quote
+
+---
+

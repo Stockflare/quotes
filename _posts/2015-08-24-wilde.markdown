@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Mean Living
+author: Oscar Wilde
+quote: >
+  Experience is simply the name we give our mistakes.
+
+image: /images/oscar_wilde_2.jpg
+twitter: Experience is simply the name we give our mistakes. Oscar Wilde http://quotes.stockflare.com/
+
+date:   2015-08-24 06:00:00
+categories: quote
+
+---
+
