@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Salty Optimism
+author: Seth Klarman
+quote: >
+  When a Wall Street analyst or broker expresses optimism, investors must take it with a grain of salt.
+
+image: /images/seth_klarman_4.jpg
+twitter: Take Wall Street's optimism with a pinch of salt. Seth Klarman http://quotes.stockflare.com/
+
+date:   2015-07-30 06:00:00
+categories: quote
+
+---
+

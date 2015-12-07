@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Getting Value
+author: Seth Klarman
+quote: >
+  There is a value gene. You simply get it or not. 
+
+image: /images/seth_klarman_5.jpg
+twitter: There is a value gene. You simply get it or not.  Seth Klarman http://quotes.stockflare.com/
+
+date:   2015-08-25 06:00:00
+categories: quote
+
+---
+

@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Successful Sell
+author: Seth Klarman
+quote: >
+  The trick of successful investors is to sell when they want to, not when they have to.
+
+image: /images/seth_klarman_1.jpg
+twitter: Successful investors sell when they want to, not when they have to. Seth Klarman http://quotes.stockflare.com/
+
+date:   2015-11-02 06:00:00
+categories: quote
+
+---
+

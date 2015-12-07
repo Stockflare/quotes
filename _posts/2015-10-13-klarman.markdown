@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Long Edge
+author: Seth Klarman
+quote: >
+  The single greatest edge an investor can have is a long-term orientation.
+
+image: /images/seth_klarman_2.jpg
+twitter: The single greatest edge an investor can have is a long-term orientation. Seth Klarman http://quotes.stockflare.com/
+
+date:   2015-10-13 06:00:00
+categories: quote
+
+---
+

@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Getting Value
+author: Seth Klarman
+quote: >
+  Human nature never changes.  
+
+image: /images/seth_klarman_6.jpg
+twitter: Human nature never changes. Seth Klarman http://quotes.stockflare.com/
+
+date:   2015-08-11 06:00:00
+categories: quote
+
+---
+
