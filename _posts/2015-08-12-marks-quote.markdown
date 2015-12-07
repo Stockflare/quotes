@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Wrong Right
+author: Howard Marks
+quote: > 
+  Being too far ahead of your time is indistinguishable from being wrong.
+
+image: /images/howard_marks_5.jpg
+twitter: Being too far ahead of your time is indistinguishable from being wrong. Howard Marks http://quotes.stockflare.com/
+
+date:   2015-08-12 02:36:05
+categories: quote
+
+---
+

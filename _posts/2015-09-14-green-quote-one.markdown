@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Open Secret
+author: Hetty Green
+quote: > 
+  There is no great secret in fortune making. All you do is buy cheap and sell dear, act with thrift and shrewdness and be persistent. 
+
+image: /images/hetty_green_1.jpg
+twitter: The secret to a fortune? Buy cheap, ac with thrift. Hetty Green http://quotes.stockflare.com/
+
+date:   2015-09-14 02:36:00
+categories: quote
+
+---
+

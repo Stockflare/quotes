@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Forecast Twice
+author: Howard Marks
+quote: > 
+  In both economic forecasting and investment management, it’s worth noting that there’s usually someone who gets it exactly right… but it’s rarely the same person twice.
+
+image: /images/howard_marks_2.jpg
+twitter: With forecasts, rarely is someone right twice. Howard Marks http://quotes.stockflare.com/
+
+date:   2015-09-16 02:36:05
+categories: quote
+
+---
+

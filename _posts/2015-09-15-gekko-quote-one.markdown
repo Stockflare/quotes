@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Sums to Zero
+author: Gordon Gekko
+quote: > 
+  It’s not a question of enough, pal. It’s a Zero Sum game – somebody wins, somebody loses. Money itself isn’t lost or made, it’s simply transferred – from one perception to another. Like magic.
+
+image: /images/gordon_gekko_2.jpg
+twitter: It’s a Zero Sum game – somebody wins, somebody loses. Gordon Gekko http://quotes.stockflare.com/
+
+date:   2015-09-15 02:36:00
+categories: quote
+
+---
+

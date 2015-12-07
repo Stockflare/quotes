@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Perfect Knowledge
+author: George Soros
+quote: > 
+  Perfect knowledge is not attainable.
+
+image: /images/george_soros_2.jpg
+twitter: Perfect knowledge is not attainable. George Soros http://quotes.stockflare.com/
+
+date:   2015-09-16 02:36:00
+categories: quote
+
+---
+
