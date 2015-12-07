@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Inside Source
+author: Jim Chanos
+quote: >
+  Some of the best short ideas can look cheap from a valuation standpoint.
+
+image: /images/jim_chanos_7.jpg
+twitter: Some of the best short ideas can look cheap from a valuation standpoint. Jim Chanos http://quotes.stockflare.com/
+
+date:   2015-08-20 06:07:00
+categories: quote
+
+---
+

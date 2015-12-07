@@ -9,7 +9,7 @@ quote: >
 image: /images/warren-buffett-24.jpg
 twitter: You find out who's swimming naked when the tide goes out.  Warren Buffett http://quotes.stockflare.com/
 
-date:   2015-09-15 06:00:00
+date:   2015-09-25 06:00:00
 categories: quote
 
 ---

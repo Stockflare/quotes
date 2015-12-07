@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Crucial Think
+author: Jim Chanos
+quote: >
+  Research is crucial, and not as many people do it, as you think.
+
+image: /images/jim_chanos_4.jpg
+twitter: Research is crucial, and not as many people do it, as you think. Jim Chanos http://quotes.stockflare.com/
+
+date:   2015-09-05 06:07:00
+categories: quote
+
+---
+

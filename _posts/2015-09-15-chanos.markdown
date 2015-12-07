@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Blame Loss
+author: Jim Chanos
+quote: >
+  People who lose money always need someone to blame.
+
+image: /images/jim_chanos_2.jpg
+twitter: People who lose money always need someone to blame. Jim Chanos http://quotes.stockflare.com/
+
+date:   2015-09-15 06:07:00
+categories: quote
+
+---
+

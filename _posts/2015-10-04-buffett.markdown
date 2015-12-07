@@ -9,7 +9,7 @@ quote: >
 image: /images/warren-buffett-20.jpg
 twitter: The value of a business is its future cash flow. Warren Buffett http://quotes.stockflare.com/
 
-date:   2015-09-04 06:00:00
+date:   2015-10-04 06:00:00
 categories: quote
 
 ---

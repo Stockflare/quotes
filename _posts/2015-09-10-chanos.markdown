@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Tech Frogs
+author: Jim Chanos
+quote: >
+  It's very difficult in the technology space, when you've been leapfrogged, to prosper again.
+
+image: /images/jim_chanos_3.jpg
+twitter: When you've been leapfrogged, it's difficult to prosper again in tech. Jim Chanos http://quotes.stockflare.com/
+
+date:   2015-09-10 06:07:00
+categories: quote
+
+---
+

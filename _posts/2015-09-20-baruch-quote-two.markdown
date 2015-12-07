@@ -9,7 +9,7 @@ quote: >
 image: /images/bernard-baruch-2.jpg
 twitter: Only liars can buy at the bottom and sell at the top ... Bernard Baruch http://quotes.stockflare.com/
 
-date:   2015-09-14 16:00:00
+date:   2015-09-20 16:00:00
 categories: quote
 
 ---
