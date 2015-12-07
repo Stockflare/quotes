@@ -9,7 +9,7 @@ quote: >
 image: /images/jim_chanos_6.jpg
 twitter: In investing, you can be really right, but temporarily quite wrong. Jim Chanos http://quotes.stockflare.com/
 
-date:   2015-08-25 06:07:00
+date:   2015-08-10 06:07:00
 categories: quote
 
 ---

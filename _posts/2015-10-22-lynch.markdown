@@ -9,7 +9,7 @@ quote: >
 image: /images/peter-lynch-13.jpg
 twitter: Behind every stock is a company. Find out what it's doing. Peter Lynch http://quotes.stockflare.com/
 
-date:   2015-09-13	 11:00:00
+date:   2015-10-22	 11:00:00
 categories: quote
 
 ---

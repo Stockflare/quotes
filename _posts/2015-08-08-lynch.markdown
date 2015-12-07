@@ -8,7 +8,7 @@ quote: >
 image: /images/peter-lynch-2.jpg
 twitter: Even a 5th grader can follow the stock market. Peter Lynch. http://quotes.stockflare.com/
 
-date:   2015-09-01 11:00:00
+date:   2015-08-08 11:00:00
 categories: quote
 
 ---

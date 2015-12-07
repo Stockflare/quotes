@@ -9,7 +9,7 @@ quote: >
 image: /images/warren-buffett-19.jpg
 twitter: In Commodities, it’s hard to be smarter than your dumbest competitor. Warren Buffett http://quotes.stockflare.com/
 
-date:   2015-08-28 10:00:00
+date:   2015-08-07 10:00:00
 categories: quote
 
 ---

@@ -9,7 +9,7 @@ quote: >
 image: /images/peter-lynch-17.jpg
 twitter: Sell when the fundamentals get worse, not the news and noise. Peter Lynch http://quotes.stockflare.com/
 
-date:   2015-08-30	 11:00:00
+date:   2015-08-23	 11:00:00
 categories: quote
 
 ---

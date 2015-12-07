@@ -9,7 +9,7 @@ quote: >
 image: /images/yogi-berra-1.jpg
 twitter: In theory, there’s no difference between theory and practice. In practice, there is. Yogi Berra http://quotes.stockflare.com/
 
-date:   2015-09-03 02:00:00
+date:   2015-08-09 02:00:00
 categories: quote
 
 ---

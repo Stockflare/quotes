@@ -9,7 +9,7 @@ quote: >
 image: /images/warren-buffett-18.jpg
 twitter: Price is what you pay. Value is what you get. Warren Buffett http://quotes.stockflare.com/
 
-date:   2015-08-29 10:00:00
+date:   2015-08-14 10:00:00
 categories: quote
 
 ---

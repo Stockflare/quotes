@@ -9,7 +9,7 @@ quote: >
 image: /images/peter-lynch-15.jpg
 twitter: Crashes are routine, prepare, then pick up some bargains. Peter Lynch http://quotes.stockflare.com/
 
-date:   2015-09-15	 11:00:00
+date:   2015-10-07	 11:00:00
 categories: quote
 
 ---
