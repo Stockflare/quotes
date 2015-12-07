@@ -9,7 +9,7 @@ quote: >
 image: /images/al-capone-1.jpg
 twitter: It's a racket. Those stock market guys are crooked.... Al Capone http://quotes.stockflare.com/
 
-date:   2015-09-15 15:00:00
+date:   2015-10-08 15:00:00
 categories: quote
 
 ---

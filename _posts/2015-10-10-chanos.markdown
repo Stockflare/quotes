@@ -9,7 +9,7 @@ quote: >
 image: /images/jim_chanos_2.jpg
 twitter: People who lose money always need someone to blame. Jim Chanos http://quotes.stockflare.com/
 
-date:   2015-09-15 06:07:00
+date:   2015-10-10 06:07:00
 categories: quote
 
 ---

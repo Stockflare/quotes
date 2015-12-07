@@ -9,7 +9,7 @@ quote: >
 image: /images/howard_marks_1.jpg
 twitter: Extrapolating today is dangerous for an investor's health. Howard Marks http://quotes.stockflare.com/
 
-date:   2015-09-13 02:36:05
+date:   2015-09-28 02:36:05
 categories: quote
 
 ---

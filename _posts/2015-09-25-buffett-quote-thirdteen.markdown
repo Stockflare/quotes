@@ -9,7 +9,7 @@ quote: >
 image: /images/warren-buffett-13.jpg
 twitter: The market transfers money from the Active to the Patient. Warren Buffett http://quotes.stockflare.com/
 
-date:   2015-09-13 10:00:00
+date:   2015-09-25 10:00:00
 categories: quote
 
 ---

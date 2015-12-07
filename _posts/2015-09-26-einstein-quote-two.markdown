@@ -9,7 +9,7 @@ quote: >
 image: /images/albert-einstein-2.jpg
 twitter: Make it simple, but not simpler.... Albert Einstein http://quotes.stockflare.com/
 
-date:   2015-09-13 15:00:00
+date:   2015-09-26 15:00:00
 categories: quote
 
 ---

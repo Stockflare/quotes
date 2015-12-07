@@ -9,7 +9,7 @@ quote: >
 image: /images/bernard-baruch-1.jpg
 twitter: Nobody ever lost money taking a profit. ... Bernard Baruch http://quotes.stockflare.com/
 
-date:   2015-09-15 16:00:00
+date:   2015-10-05 16:00:00
 categories: quote
 
 ---

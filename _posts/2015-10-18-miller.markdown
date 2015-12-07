@@ -9,7 +9,7 @@ quote: >
 image: /images/bill-miller-1.jpg
 twitter: Great investors are inversely emotional, getting worried when the market is up, feeling good when everyone isn't. Bill Miller http://quotes.stockflare.com/
 
-date:   2015-09-15 02:15:00
+date:   2015-10-18 02:15:00
 categories: quote
 
 ---

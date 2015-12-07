@@ -9,7 +9,7 @@ quote: >
 image: /images/george_soros_1.jpg
 twitter: Bubbles have a solid basis in reality, a distorted one. George Soros http://quotes.stockflare.com/
 
-date:   2015-09-18 02:36:00
+date:   2015-10-26 02:36:00
 categories: quote
 
 ---

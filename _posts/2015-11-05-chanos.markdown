@@ -9,7 +9,7 @@ quote: >
 image: /images/jim_chanos_1.jpg
 twitter: Bubbles are best identified by credit excesses, not valuation excesses.  Jim Chanos http://quotes.stockflare.com/
 
-date:   2015-09-25 06:07:00
+date:   2015-11-05 06:07:00
 categories: quote
 
 ---

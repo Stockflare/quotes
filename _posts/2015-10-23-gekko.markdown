@@ -9,7 +9,7 @@ quote: >
 image: /images/gordon_gekko_1.jpg
 twitter: Fund managers are sheep, and they get slaughtered. Gordon Gekko http://quotes.stockflare.com/
 
-date:   2015-09-17 02:36:00
+date:   2015-10-23 02:36:00
 categories: quote
 
 ---

@@ -9,7 +9,7 @@ quote: >
 image: /images/gordon_gekko_2.jpg
 twitter: It’s a Zero Sum game – somebody wins, somebody loses. Gordon Gekko http://quotes.stockflare.com/
 
-date:   2015-09-15 02:36:00
+date:   2015-10-14 02:36:00
 categories: quote
 
 ---
