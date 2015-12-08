@@ -4,7 +4,7 @@ layout: post
 title:  Games Bottom
 author: Michael Jordan
 quote: >
-  The minute you get away from the fundamentals – whether it’s proper technique, work ethic, or mental preparation, the bottom can fall out of your game.
+  The minute you get away from the fundamentals, whether it’s proper technique, work ethic, or mental preparation, the bottom can fall out of your game.
 
 image: /images/michael_jordan_1.jpg
 twitter: The minute you get away from the fundamentals the bottom falls out of your game. Michael Jordan http://quotes.stockflare.com/

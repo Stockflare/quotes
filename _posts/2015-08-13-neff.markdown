@@ -6,7 +6,7 @@ author: John Neff
 quote: >
   Straight lines can throw curves.  
 
-image: /images/john_neff_9.jpg
+image: /images/john_neff_11.jpg
 twitter: Straight lines can throw curves. John Neff http://quotes.stockflare.com/
 
 date:   2015-08-13 21:01:12
