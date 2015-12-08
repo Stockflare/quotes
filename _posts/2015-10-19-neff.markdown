@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Market Nevers
+author: John Neff
+quote: >
+  Never say ‘never’ in the wonderful world of stock market fluctuations. 
+
+image: /images/john_neff_4.jpg
+twitter: Never say ‘never’ in the wonderful world of stock market fluctuations.John Neff http://quotes.stockflare.com/
+
+date:   2015-10-19 21:01:12
+categories: quote
+
+---
+

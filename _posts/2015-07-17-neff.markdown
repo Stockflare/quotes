@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Market Favors
+author: John Neff
+quote: >
+  The market’s boundless capacity for poor judgment ensures a steady supply of out-of-favor candidates.    
+
+image: /images/john_neff_11.jpg
+twitter: The market’s poor judgment ensures a supply of out-of-favor candidates.  John Neff http://quotes.stockflare.com/
+
+date:   2015-07-17 21:01:12
+categories: quote
+
+---
+

@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Frenzy Tubs
+author: John Neff
+quote: >
+  Frenzies end, fundamentals prevail, and every tub sits on its own bottom.  
+
+image: /images/john_neff_3.jpg
+twitter: Frenzies end, fundamentals prevail, and every tub sits on its own bottom. John Neff http://quotes.stockflare.com/
+
+date:   2015-10-24 21:01:12
+categories: quote
+
+---
+

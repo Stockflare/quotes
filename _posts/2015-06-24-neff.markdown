@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Ticking Time
+author: John Neff
+quote: >
+  In the worst of times, I took a lickin’ and kept on tickin’ 
+
+image: /images/john_neff_5.jpg
+twitter: In the worst of times, I took a lickin’ and kept on tickin’ John Neff http://quotes.stockflare.com/
+
+date:   2015-06-24 21:01:12
+categories: quote
+
+---
+

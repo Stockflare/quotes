@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Stuffing Stocks
+author: John Neff
+quote: >
+  I buy stocks that usually have had the stuffing beaten out of them. 
+
+image: /images/john_neff_6.jpg
+twitter: I buy stocks that usually have had the stuffing beaten out of them. John Neff http://quotes.stockflare.com/
+
+date:   2015-08-31 21:01:12
+categories: quote
+
+---
+

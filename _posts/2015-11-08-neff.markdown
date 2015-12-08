@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Glamour Bulls
+author: John Neff
+quote: >
+  Investment success does not require glamour stocks or bull markets. 
+
+image: /images/john_neff_1.jpg
+twitter: Investment success does not require glamour stocks or bull markets.  John Neff http://quotes.stockflare.com/
+
+date:   2015-11-08 21:01:12
+categories: quote
+
+---
+

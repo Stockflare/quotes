@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Broad Mediocrity
+author: John Neff
+quote: >
+  Obsession with broad diversification is the sure road to mediocrity. 
+
+image: /images/john_neff_7.jpg
+twitter: Obsession with broad diversification is the sure road to mediocrity. John Neff http://quotes.stockflare.com/
+
+date:   2015-08-22 21:01:12
+categories: quote
+
+---
+

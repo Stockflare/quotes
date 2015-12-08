@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Frugal Genius
+author: John Neff
+quote: >
+  I attribute success not to genius or blinding insights, but to a frugal nature and lessons well learned. 
+
+image: /images/john_neff_8.jpg
+twitter: Success s not on genius, but being frugal and learning well. John Neff http://quotes.stockflare.com/
+
+date:   2015-05-19 21:01:12
+categories: quote
+
+---
+

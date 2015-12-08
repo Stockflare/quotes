@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Often Ugly
+author: John Neff
+quote: >
+  To us, ugly stocks were often beautiful. 
+
+image: /images/john_neff_5.jpg
+twitter: To us, ugly stocks were often beautiful. John Neff http://quotes.stockflare.com/
+
+date:   2015-10-31 21:01:12
+categories: quote
+
+---
+

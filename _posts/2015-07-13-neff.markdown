@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Exit Rush
+author: John Neff
+quote: >
+  I wouldn’t want to get caught in a rush for the exit, much less get left behind.
+
+image: /images/john_neff_1.jpg
+twitter: I wouldn’t want to get caught in a rush for the exit, or get left behind.  John Neff http://quotes.stockflare.com/
+
+date:   2015-07-13 21:01:12
+categories: quote
+
+---
+

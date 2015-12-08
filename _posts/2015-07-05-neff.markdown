@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Corporate Benches
+author: John Neff
+quote: >
+  Fundamental analysis consists largely of appraising corporate performance against industry or market benchmarks.
+
+image: /images/john_neff_3.jpg
+twitter: Fundamental analysis compares performance against industry benchmarks. John Neff http://quotes.stockflare.com/
+
+date:   2015-07-05 21:01:12
+categories: quote
+
+---
+

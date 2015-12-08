@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Decision Impairs
+author: John Neff
+quote: >
+  No solitary measure or pair of measures should govern a decision to buy a stock. 
+
+image: /images/john_neff_2.jpg
+twitter: No solitary measure or pair of measures should govern a decision to buy a stock. John Neff http://quotes.stockflare.com/
+
+date:   2015-07-09 21:01:12
+categories: quote
+
+---
+

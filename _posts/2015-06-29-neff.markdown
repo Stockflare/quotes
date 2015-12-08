@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Opportunity Panics
+author: John Neff
+quote: >
+  Where there is panic, there is also opportunity. 
+
+image: /images/john_neff_4.jpg
+twitter: Where there is panic, there is also opportunity. John Neff http://quotes.stockflare.com/
+
+date:   2015-06-29 21:01:12
+categories: quote
+
+---
+

@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Straight Disappointment
+author: John Neff
+quote: >
+  Most investors are great at extending straight lines that culminate in disappointment when enthusiasm wanes.  
+
+image: /images/john_neff_2.jpg
+twitter: Extending straight lines culminates in disappointment.  John Neff http://quotes.stockflare.com/
+
+date:   2015-10-27 21:01:12
+categories: quote
+
+---
+
