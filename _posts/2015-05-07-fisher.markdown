@@ -6,7 +6,7 @@ author: Irving Fisher
 quote: >
   Stock prices have reached what looks like a permanent high plateau.
 
-image: /images/irving_fisher_1.jpg
+image: /images/irvingfisher1.jpg
 twitter: Stock prices have reached what looks like a permanent high plateau. Irving Fisher http://quotes.stockflare.com/
 
 date:   2015-05-07	 11:30:00
