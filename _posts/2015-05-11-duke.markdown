@@ -7,7 +7,10 @@ quote: >
   Mother always said you were greedy, Randolph. She meant it as a compliment, Mortimer.
 
 image: /images/rm_duke_1.jpg
-twitter: Mother always said you were greedy, Randolph. She meant it as a compliment, Mortimer. The Dukes http://quotes.stockflare.com/
+twitter: Mother always said you were greedy, Randolph. It was a compliment, Mortimer. The Dukes http://quotes.stockflare.com/
 
-date:   2015-05-11 21:01:12
+date:   2015-05-11	 11:00:02
 categories: quote
+
+---
+
