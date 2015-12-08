@@ -1,13 +1,13 @@
 ---
 layout: post
 
-title:  Trumpet Sells
+title:  Time Ticking
 author: John Neff
 quote: >
-  Buy on the cannons and sell on the trumpets. 
+  In the worst of times, I took a lickin’ and kept on tickin’ 
 
 image: /images/john_neff_6.jpg
-twitter: Buy on the cannons and sell on the trumpets. John Neff http://quotes.stockflare.com/
+twitter: In the worst of times, I took a lickin’ and kept on tickin’ John Neff http://quotes.stockflare.com/
 
 date:   2015-06-17 21:01:12
 categories: quote

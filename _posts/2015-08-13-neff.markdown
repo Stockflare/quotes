@@ -1,13 +1,13 @@
 ---
 layout: post
 
-title:  Two Diversified
+title:  Curved Lines
 author: John Neff
 quote: >
-  The market has good days and bad days, good years and bad years. You can’t predict them, and they can reverse course with stunning speed. But you can learn to cope with them and improve your odds.   
+  Straight lines can throw curves.  
 
 image: /images/john_neff_9.jpg
-twitter: The market has good days and bad days. You can’t predict them. John Neff http://quotes.stockflare.com/
+twitter: Straight lines can throw curves. John Neff http://quotes.stockflare.com/
 
 date:   2015-08-13 21:01:12
 categories: quote
