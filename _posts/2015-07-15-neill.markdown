@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Bull Brains
+author: Humphrey B Neill
+quote: >
+  Don't confuse brains with a bull market.
+
+image: /images/hb_neill_1.jpg
+twitter: Don't confuse brains with a bull market. Humphrey B Neill http://quotes.stockflare.com/
+
+date:   2015-07-15 21:01:12
+categories: quote
+
+---
+

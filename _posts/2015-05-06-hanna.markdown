@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Money Game
+author: Mark Hanna
+quote: >
+  The name of the game, moving the money from the client's pocket to your pocket.
+
+image: /images/mark_hanna_1.jpg
+twitter: Name of the game, moving money from the client's pocket to yours. Mark Hanna http://quotes.stockflare.com/
+
+date:   2015-05-06 21:01:12
+categories: quote
+
+---
+

@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Mad Calculations
+author: Issac Newton
+quote: >
+  I can calculate the motion of heavenly bodies but not the madness of people.
+
+image: /images/issac_newton_1.jpg
+twitter: I can calculate the motion of heavenly bodies but not the madness of people. Issac Newton http://quotes.stockflare.com/
+
+date:   2015-05-09 21:01:12
+categories: quote
+
+---
+

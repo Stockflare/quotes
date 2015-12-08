@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Nothing Better
+author: Suze Orman
+quote: >
+  It's better to do nothing with your money than something you don't understand.
+
+image: /images/suze_orman_1.jpg
+twitter: It's better to do nothing with your money than something you don't understand. Suze Orman http://quotes.stockflare.com/
+
+date:   2015-05-10 21:01:12
+categories: quote
+
+---
+

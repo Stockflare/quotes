@@ -1,0 +1,13 @@
+---
+layout: post
+
+title:  Three Livings
+author: John Tuld
+quote: >
+  There are three ways to make a living in on Wall Street: be first, be smarter, or cheat.
+
+image: /images/john_tuld_1.jpg
+twitter: There are three ways to make a living in on Wall Street: be first, be smarter, or cheat. John Tuld http://quotes.stockflare.com/
+
+date:   2015-05-13 21:01:12
+categories: quote

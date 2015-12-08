@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Street Rules
+author: Mark Hanna
+quote: >
+  OK, first rule of Wall Street - Nobody - and I don't care if you're Warren Buffett or Jimmy Buffett - nobody knows if a stock is going up, down or f-ing sideways, least of all stockbrokers. But we have to pretend we know.
+
+image: /images/mark_hanna_2.jpg
+twitter: Nobody knows if a stock is going up or down. But we have to pretend to. Mark Hanna http://quotes.stockflare.com/
+
+date:   2015-05-30 21:01:12
+categories: quote
+
+---
+

@@ -1,0 +1,13 @@
+---
+layout: post
+
+title:  Remain Solvent
+author: John Maynard Keynes
+quote: >
+  Markets can remain irrational longer than you can remain solvent.
+
+image: /images/jm_keynes_1.jpg
+twitter: Markets can remain irrational longer than you can remain solvent. John Maynard Keynes http://quotes.stockflare.com/
+
+date:   2015-05-15 21:01:12
+categories: quote
