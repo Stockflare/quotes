@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Never Asked
+author: Rene Rivkin
+quote: >
+  Never offer financial advice unless asked.
+
+image: /images/rene_rivkin_2.jpg
+twitter: Never offer financial advice unless asked. Rene Rivkin http://quotes.stockflare.com/
+
+date:   2015-09-20 15:00:10
+categories: quote
+
+---
+

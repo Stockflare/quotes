@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Investor Math
+author: Ben Graham
+quote: >
+  Operations for profit should be based not on optimism but on arithmetic.
+
+image: /images/ben-graham-6.jpg
+twitter: Invest based on arithmetic, not optimism ... Ben Graham http://quotes.stockflare.com/
+
+date:   2015-06-03 15:00:00
+categories: quote
+
+---
+

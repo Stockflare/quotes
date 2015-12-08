@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Security List
+author: Philip Fisher
+quote: >
+  Usually a very long list of securities is not a sign of the brilliant investor, but of one who is unsure of himself.
+
+image: /images/philip_fisher_4.jpg
+twitter: A long list of stocks is not a sign of the brilliant investor. Philip Fisher http://quotes.stockflare.com/
+
+date:   2015-06-21 16:00:10
+categories: quote
+
+---
+

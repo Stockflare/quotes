@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Sleeping Well
+author: Philip Fisher
+quote: >
+  Conservative investors sleep well.
+
+image: /images/philip_fisher_3.jpg
+twitter: Conservative investors sleep well. Philip Fisher http://quotes.stockflare.com/
+
+date:   2015-07-25 18:10:00
+categories: quote
+
+---
+

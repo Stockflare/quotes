@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Practical Theorys
+author: Yogi Berra
+quote: >
+  In theory, there’s no difference between theory and practice. In practice, there is.
+
+image: /images/yogi-berra-1.jpg
+twitter: In theory, there’s no difference between theory and practice. In practice, there is. Yogi Berra http://quotes.stockflare.com/
+
+date:   2015-23-23 02:00:00
+categories: quote
+
+---
+

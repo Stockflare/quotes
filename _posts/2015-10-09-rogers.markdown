@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Economic History
+author: Jim Rogers
+quote: >
+  Unfortunately most economists know very little history, and most of them know very little economics, it turns out.
+
+image: /images/jim_rogers_2.jpg
+twitter: Unfortunately most economists know very little history. Jim Rogers http://quotes.stockflare.com/
+
+date:   2015-10-09 16:00:00
+categories: quote
+
+---
+

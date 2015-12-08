@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Stomach Triumph
+author: Peter Lynch
+quote: >
+  Everyone has the brainpower to make money in stocks. Not everyone has the stomach. If you are susceptible to selling everything in a panic, you ought to avoid stocks and stock mutual funds altogether.
+
+image: /images/peter-lynch-16.jpg
+twitter: You need brains & the stomach to invest in stocks. Peter Lynch http://quotes.stockflare.com/
+
+date:   2015-05-01	 11:00:00
+categories: quote
+
+---
+

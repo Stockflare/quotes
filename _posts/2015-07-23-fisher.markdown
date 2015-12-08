@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Stock Problems
+author: Philip Fisher
+quote: >
+  The stock market is filled with individuals who know the price of everything, but the value of nothing.
+
+image: /images/philip_fisher_2.jpg
+twitter: The market's filled with folks who know the price not value. Philip Fisher http://quotes.stockflare.com/
+
+date:   2015-09-08 16:00:10
+categories: quote
+
+---
+

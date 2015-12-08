@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Silly Holding
+author: Peter Lynch
+quote: >
+  There's no shame in losing money on a stock. Everybody does it. What is shameful is to hold on to a stock, or, worse, to buy more of it, when the fundamentals are deteriorating.
+
+image: /images/peter-lynch-9.jpg
+twitter: It's shameful to hold a bad stock. Peter Lynch http://quotes.stockflare.com/
+
+date:   2015-07-16	 11:00:00
+categories: quote
+
+---
+

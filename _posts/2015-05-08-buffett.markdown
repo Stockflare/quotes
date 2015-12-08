@@ -1,0 +1,15 @@
+---
+layout: post
+
+title:  Investing rules
+author: Warren Buffett
+quote: >
+  Rule No. 1: Never lose money. Rule No. 2: Never forget rule No. 1
+image: /images/buffett2.jpg
+twitter: no.1 never lose money. no.2 don't forget no.1. Warren Buffett http://quotes.stockflare.com/ https://pbs.twimg.com/media/BroaE5hIcAAiufe.jpg
+
+date:   2015-05-08 10:00:00
+categories: quote
+
+---
+

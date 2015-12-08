@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Charting Riches
+author: Rene Rivkin
+quote: >
+  I have never met a rich chartist.
+
+image: /images/rene_rivkin_2.jpg
+twitter: I have never met a rich chartist. Rene Rivkin http://quotes.stockflare.com/
+
+date:   2015-05-29 15:00:10
+categories: quote
+
+---
+

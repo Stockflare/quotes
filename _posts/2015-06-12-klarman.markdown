@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Long Edge
+author: Seth Klarman
+quote: >
+  Greater risk does not guarantee greater return. To the contrary, risk erodes return by causing losses. By itself risk does not create incremental return, only price can accomplish that.
+
+image: /images/seth_klarman_3.jpg
+twitter: Greater risk does not guarantee greater return. Seth Klarman http://quotes.stockflare.com/
+
+date:   2015-06-12 06:00:00
+categories: quote
+
+---
+

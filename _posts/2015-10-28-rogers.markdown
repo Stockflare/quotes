@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Print Danger
+author: Jim Rogers
+quote: >
+  Throughout history printing money has ended up badly. But unfortunately, very few politicians know any history at all.
+
+image: /images/jim_rogers_1.jpg
+twitter: Throughout history printing money has ended up badly. Jim Rogers http://quotes.stockflare.com/
+
+date:   2015-10-28 16:00:00
+categories: quote
+
+---
+

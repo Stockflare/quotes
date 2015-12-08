@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Uncomfortably Profitable
+author: Howard Marks
+quote: > 
+  A hugely profitable investment that doesn’t begin with discomfort is usually an oxymoron.
+
+image: /images/howard_marks_4.png
+twitter: Profitable investments usually begin with discomfort. Howard Marks http://quotes.stockflare.com/
+
+date:   2015-06-16 02:36:05
+categories: quote
+
+---
+

@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Stock Cars
+author: Jim Rogers
+quote: >
+  People spend more time doing research on which car to buy than they do on which stock to buy.
+
+image: /images/jim_rogers_4.jpg
+twitter: People spend more time doing research on which car to buy than they do on which stock to buy. Jim Rogers http://quotes.stockflare.com/
+
+date:   2015-07-27 16:00:00
+categories: quote
+
+---
+

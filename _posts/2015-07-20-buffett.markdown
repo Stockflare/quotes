@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Forecasting Bias
+author: Warren Buffett
+quote: >
+  Forecast may tell you a great deal about the forecaster but they tell you nothing about the future
+
+image: /images/warren-buffett-9.jpg
+twitter: Forecasts tell you about the forecaster, not about the future. Warren Buffett http://quotes.stockflare.com/
+
+date:   2015-07-20 10:00:00
+categories: quote
+
+---
+

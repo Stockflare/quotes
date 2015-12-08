@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Security List
+author: Rene Rivkin
+quote: >
+  Buy in gloom, sell in boom.
+
+image: /images/rene_rivkin_1.jpg
+twitter: Buy in gloom, sell in boom. Rene Rivkin http://quotes.stockflare.com/
+
+date:   2015-06-22 16:00:10
+categories: quote
+
+---
+
