@@ -4,10 +4,10 @@ layout: post
 title:  Money Talk
 author: Richard Armour
 quote: >
-  That money talks I'll not deny, I heard it once: It said, Goodbye.
+  That money talks I'll not deny, I heard it once. It said, Goodbye.
 
 image: /images/richard_armour_1.jpg
-twitter: That money talks I'll not deny, I heard it once: It said, Goodbye. Richard Armour http://quotes.stockflare.com/
+twitter: That money talks I'll not deny, I heard it once. It said, Goodbye. Richard Armour http://quotes.stockflare.com/
 
 date:   2015-08-19	 11:00:00
 categories: quote
