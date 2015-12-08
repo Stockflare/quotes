@@ -2,7 +2,7 @@
 layout: post
 
 title:  Sad Compliment
-author: Randolph & Mortimer Duke
+author: Randolph and Mortimer Duke
 quote: >
   Mother always said you were greedy, Randolph. She meant it as a compliment, Mortimer.
 

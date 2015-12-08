@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Stock Performance
+author: Jim Cramer
+quote: >
+  Stocks historically have outperformed all other investment plans. 
+
+image: /images/jim_cramer_1.jpg
+twitter: Stocks historically have outperformed all other investment plans. Jim Cramer http://quotes.stockflare.com/
+
+date:   2015-05-23 13:00:00
+categories: quote
+
+---
+
