@@ -9,5 +9,5 @@ quote: >
 image: /images/joel_greenblatt_1.jpg
 twitter: The odds of anyone calling you with good advice are same as winning Lotto without a ticket. Joel Greenblatt http://quotes.stockflare.com/
 
-date:   2015-05-17 21:01:12
+date:   2015-05-17	 21:01:12
 categories: quote
