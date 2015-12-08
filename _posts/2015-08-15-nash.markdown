@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Banker Needs
+author: Ogden Nash
+quote: >
+  One rule which woe betides the banker who fails to heed it. Never lend any money to anybody unless they don't need it.
+
+image: /images/ogden_nash_1.jpg
+twitter: Never lend any money to anybody unless they don't need it. Ogden Nash http://quotes.stockflare.com/
+
+date:   2015-08-15	 11:00:00
+categories: quote
+
+---
+

@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Any Data
+author: Ronald Coase
+quote: >
+  If you torture the data long enough, it will confess to anything.
+
+image: /images/ronald_coase_1.jpg
+twitter: If you torture the data long enough, it will confess to anything. Ronald Coase http://quotes.stockflare.com/
+
+date:   2015-11-09	 11:00:00
+categories: quote
+
+---
+

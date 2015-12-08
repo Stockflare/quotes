@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Ultimately Simple
+author: Leonardo da Vinci
+quote: >
+  Simplicity is the ultimate sophistication.
+
+image: /images/leo_da_vinci_1.jpg
+twitter: Simplicity is the ultimate sophistication. Leonardo da Vinci http://quotes.stockflare.com/
+
+date:   2015-05-25	 11:00:00
+categories: quote
+
+---
+

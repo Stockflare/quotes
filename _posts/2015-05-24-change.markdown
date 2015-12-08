@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Market Whim
+author: Kenneth Chang
+quote: >
+  The stock market is the combined behavior of thousands of people responding to information, misinformation and whim.
+
+image: /images/ken_chang_1.jpg
+twitter: The market combines behavior of thousands responding to information and whim. Kenneth Chang http://quotes.stockflare.com/
+
+date:   2015-05-24	 11:00:00
+categories: quote
+
+---
+

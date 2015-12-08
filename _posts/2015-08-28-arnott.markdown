@@ -1,0 +1,16 @@
+---
+layout: post
+
+title:  Rare Comfort
+author: Robert Arnott
+quote: >
+  In investing, what is comfortable is rarely profitable.
+
+image: /images/robert_arnott_1.jpg
+twitter: In investing, what is comfortable is rarely profitable. Robert Arnott http://quotes.stockflare.com/
+
+date:   2015-08-28	 11:00:00
+categories: quote
+
+---
+
