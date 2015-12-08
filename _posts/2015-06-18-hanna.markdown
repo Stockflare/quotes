@@ -4,7 +4,7 @@ layout: post
 title:  Street Rules
 author: Mark Hanna
 quote: >
-  So if you've got a client who bought stock at 8 and now it's at 16 and he's all fucking happy, he wants to cash in and liquidate, take his fucking money and run home, you don't let him do that... 'cause that would make it real.
+  So if you've got a client who bought stock at 8 and now it's at 16 and he's all fucking happy, he wants to cash in and liquidate, take his fucking money and run home, you don't let him do that because that would make it real.
 
 image: /images/mark_hanna_3.jpg
 twitter: If you've got a client who's happy, wants to cash in, don't let him. Mark Hanna http://quotes.stockflare.com/
