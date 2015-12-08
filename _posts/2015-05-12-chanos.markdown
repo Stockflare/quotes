@@ -9,7 +9,7 @@ quote: >
 image: /images/jim_chanos_5.jpg
 twitter: Nothing beats starting with source documents. Jim Chanos http://quotes.stockflare.com/
 
-date:   2015-05-12 06:07:00
+date:   2015-05-12 06:07:01
 categories: quote
 
 ---
