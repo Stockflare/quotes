@@ -8,7 +8,7 @@ quote: >
 image: /images/buffett2.jpg
 twitter: no.1 never lose money. no.2 don't forget no.1. Warren Buffett http://quotes.stockflare.com/ https://pbs.twimg.com/media/BroaE5hIcAAiufe.jpg
 
-date:   2015-05-08 10:00:00
+date:   2015-12-10 10:23:45
 categories: quote
 
 ---
