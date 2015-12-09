@@ -9,7 +9,7 @@ quote: >
 image: /images/roy_neuberger_1.jpg
 twitter: Stay in love with a stock until its overvalued, then let others fall in love. Roy Neuberger http://quotes.stockflare.com/
 
-date:   2015-11-10	 11:00:00
+date:   2015-04-01	 11:00:00
 categories: quote
 
 ---

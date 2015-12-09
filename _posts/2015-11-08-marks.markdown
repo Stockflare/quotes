@@ -9,7 +9,7 @@ quote: >
 image: /images/howard_marks_2.jpg
 twitter: With forecasts, rarely is someone right twice. Howard Marks http://quotes.stockflare.com/
 
-date:   2015-10-20 02:36:05
+date:   2015-11-08 02:36:05
 categories: quote
 
 ---
