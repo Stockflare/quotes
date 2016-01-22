@@ -4,7 +4,11 @@ email: info@stockflare.com
 description: "Check out over 175 maxims and quotes from Masters of the Financial Universe. Including Warren Buffett, John Neff, Bernard Baruch, Howard Marks and many more."
 baseurl: ""
 url: "http://quotes.stockflare.com"
+paginate: 20
+paginate_path: "/:num"
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+gems: ["jekyll-paginate"]
