@@ -1,6 +1,7 @@
 language: ruby
 rvm:
 - 2.2.2
+sudo: required
 before_script: gem install jekyll
 script: jekyll build --destination out
 notifications:
